@@ -1,0 +1,4 @@
+1.py  标签映射
+RandomForest.py  识别结果
+1.1 PCAP2CSV.py   特征抽取
+公共数据集网站：https://iotanalytics.unsw.edu.au/iottraces
